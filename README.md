@@ -1,11 +1,3 @@
-Manual testing documents:
-
-Test cases
-Test metrics
-Bug Report
-RTM
-
-
 # Selenium Automation Framework
     Java: Programming language
     Selenium: Web automation tool
@@ -18,3 +10,9 @@ RTM
     Extent Reports: Report generation, for every test cases.
 
 
+# Manual testing documents
+
+Test cases
+Test metrics
+Bug Report
+RTM
