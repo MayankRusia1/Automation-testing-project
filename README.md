@@ -13,6 +13,9 @@
 # Manual testing documents
 
 Test cases
+
 Test metrics
+
 Bug Report
+
 RTM
