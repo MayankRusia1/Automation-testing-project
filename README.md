@@ -1,5 +1,12 @@
-# Automation-testing-project
+Manual testing documents:
 
+Test cases
+Test metrics
+Bug Report
+RTM
+
+
+# Selenium Automation Framework
     Java: Programming language
     Selenium: Web automation tool
     TestNG: Testing framework, primarily used for the automation testing of Java-based applications, 
@@ -9,3 +16,5 @@
     Maven: Build tool
     POM
     Extent Reports: Report generation, for every test cases.
+
+
